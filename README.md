@@ -26,4 +26,5 @@ Shows who's online now in the server
 $ping
 Shows the latency of the server
 Also has a feature to get a role from reaction to a message
+
 ```
